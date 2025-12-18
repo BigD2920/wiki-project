@@ -22,3 +22,5 @@ Een van de meest significante ontwikkelingen in het moderne tijdperk is de intro
 Primaris Marines zijn groter, sterker en beter uitgerust dan hun voorgangers. Ze hebben extra organen en verbeterde genetische modificaties. Toen Guilliman terugkeerde, onthulde hij deze nieuwe krijgers en ze werden ingezet over alle loyalistische Chapters om de rangen te versterken.
 
 Niet iedereen was blij met hun komst - sommige Chapters zagen hen als vervangingen, anderen als noodzakelijk kwaad. Maar in de donkerste uren van het Imperium zijn alle handen nodig aan dek.
+
+lalalalala
