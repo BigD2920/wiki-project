@@ -1,15 +1,19 @@
 # Warhammer 40K Wiki
 
-Welkom bij mijn Warhammer 40K wiki! 
+Welkom bij mijn Warhammer 40K wiki!
 
-"It is the 41st Millennium. For more than a hundred centuries The Emperor has sat immobile on the Golden Throne of Earth. He is the Master of Mankind by the will of the gods, and master of a million worlds by the might of his inexhaustible armies. He is a rotting carcass writhing invisibly with power from the Dark Age of Technology. He is the Carrion Lord of the Imperium for whom a thousand souls are sacrificed every day, so that he may never truly die.
+"Het is het 41e millennium. Al meer dan honderd eeuwen zit de Keizer onbeweeglijk op de Gouden Troon van de Aarde. Hij is de Meester van de Mensheid bij de gratie van de goden, en heerser over een miljoen werelden door de macht van zijn onuitputtelijke legers. Hij is een rottend karkas dat onzichtbaar zindert van kracht uit de Duistere Eeuw van de Technologie. Hij is de Kadaverheer van het Imperium, voor wie elke dag duizend zielen worden geofferd, zodat hij nooit echt zal sterven.
 
-Yet even in his deathless state, the Emperor continues his eternal vigilance. Mighty battlefleets cross the daemon-infested miasma of the Warp, the only route between distant stars, their way lit by the Astronomican, the psychic manifestation of the Emperor's will. Vast armies give battle in his name on uncounted worlds. Greatest amongst his soldiers are the Adeptus Astartes, the Space Marines, bio-engineered super-warriors. Their comrades in arms are legion: the Imperial Guard and countless planetary defence forces, the ever vigilant Inquisition and the tech-priests of the Adeptus Mechanicus to name only a few. But for all their multitudes, they are barely enough to hold off the ever-present threat from aliens, heretics, mutants - and worse.
+Toch zet de Keizer, zelfs in zijn doodloze staat, zijn eeuwige waakzaamheid voort. Machtige slagvloten doorkruisen de door demonen geteisterde miasma van de Warp, de enige route tussen verre sterren, hun weg verlicht door het Astronomican: de psychische manifestatie van de wil van de Keizer. Onmetelijke legers leveren in zijn naam strijd op ontelbare werelden. De grootste onder zijn soldaten zijn de Adeptus Astartes, de Space Marines, genetisch gemanipuleerde superkrijgers. Hun wapenbroeders zijn legio: de Imperial Guard en talloze planetaire defensie-eenheden, de immer waakzame Inquisitie en de tech-priesters van de Adeptus Mechanicus, om er slechts enkele te noemen. Maar ondanks hun enorme aantallen zijn ze nauwelijks voldoende om de constante dreiging van buitenaardse wezens, ketters, mutanten – en erger – het hoofd te bieden.
 
-To be a man in such times is to be one amongst untold billions. It is to live in the cruelest and most bloody regime imaginable. These are the tales of those times. Forget the power of technology and science, for so much has been forgotten, never to be re-learned. Forget the promise of progress and understanding, for in the grim dark future there is only war. There is no peace amongst the stars, only an eternity of carnage and slaughter, and the laughter of thirsting gods."
+Een mens zijn in dergelijke tijden is één zijn onder ontelbare miljarden. Het is leven in het wreedste en meest bloederige regime dat men zich kan voorstellen. Dit zijn de verhalen van die tijden. Vergeet de kracht van technologie en wetenschap, want er is zo veel vergeten dat nooit meer opnieuw geleerd zal worden. Vergeet de belofte van vooruitgang en begrip, want in de grimmige duisternis van de toekomst is er alleen maar oorlog. Er is geen vrede tussen de sterren, enkel een eeuwigheid van bloedbad en afslachting, en het gelach van dorstige goden."
 
 ## Inhoud
+
 - Facties
-- Personages  
+[Bekijk de facties](facties.md)
+- Personages
+[Bekijk de personages](personages.md)
 - Verhalen
-- Locaties
+[Bekijk de verhalen](verhalen.md)
+
