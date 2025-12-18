@@ -1,4 +1,4 @@
-# De Tragedie van de Melkweg: Een Verhaal van Verval
+E# De Tragedie van de Melkweg: Een Verhaal van Verval
 
 1. De Gouden Droom en het Grote Verraad
    Tienduizend jaar geleden was de mensheid op weg naar een nieuw gouden tijdperk. De Emperor verliet zijn troon op Terra om met zijn twintig zonen, de Primarchs, de melkweg te heroveren. Het doel was een rijk van rede en wetenschap, vrij van goden en religie.
@@ -11,6 +11,6 @@ Maar de droom spatte uiteen tijdens de Horus Heresy. De favoriete zoon van de Ke
 Terwijl de mensheid langzaam wegzakt in onwetendheid, vallen de grenzen aan alle kanten aan. De Warp (een parallelle dimensie van pure energie en demonen) bloedt de werkelijkheid in, en talloze Xenos-rassen zoals de Orks en Tyranids vreten aan de randen van het rijk.
 
 3. De Tijd van het Einde: De Terugkeer van de Zonen
-   De huidige tijd is de meest wanhopige ooit. De melkweg is letterlijk in tweeën gescheurd door de Cicatrix Maledictum, een gigantische scheur in de realiteit. Maar in deze donkerste uren is er een sprankje hoop: de terugkeer van de Primarchs.
+  DEZE ZIN IS WEG
 
 Eerst ontwaakte Roboute Guilliman, die de administratie van het Imperium probeert te redden. En recentelijk is The Lion (Lion El'Jonson) teruggekeerd uit de nevelen van de tijd. Hij jaagt nu als een eenzame ridder op de monsters die zijn vaders rijk bedreigen. Het verhaal bevindt zich nu op een kantelpunt: zal de terugkeer van deze legendarische zonen het Imperium redden, of komen ze net op tijd om getuige te zijn van de totale ondergang?
