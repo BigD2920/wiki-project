@@ -11,7 +11,7 @@ Maar de droom spatte uiteen tijdens de Horus Heresy. De favoriete zoon van de Ke
 Terwijl de mensheid langzaam wegzakt in onwetendheid, vallen de grenzen aan alle kanten aan. De Warp (een parallelle dimensie van pure energie en demonen) bloedt de werkelijkheid in, en talloze Xenos-rassen zoals de Orks en Tyranids vreten aan de randen van het rijk.
 
 3. De Tijd van het Einde: De Terugkeer van de Zonen
-Ik pas het hier aan
+Deze regel op git
 
 Eerst ontwaakte Roboute Guilliman, die de administratie van het Imperium probeert te redden. En recentelijk is The Lion (Lion El'Jonson) teruggekeerd uit de nevelen van de tijd. Hij jaagt nu als een eenzame ridder op de monsters die zijn vaders rijk bedreigen. Het verhaal bevindt zich nu op een kantelpunt: zal de terugkeer van deze legendarische zonen het Imperium redden, of komen ze net op tijd om getuige te zijn van de totale ondergang?
 
